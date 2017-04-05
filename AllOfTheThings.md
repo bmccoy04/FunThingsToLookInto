@@ -2,6 +2,7 @@
 
 ## Topics ##
 1. Javasript Generators (state machine, yield, ES2015)
+1. .net Core Claims for JWT 
 
 ## Algorithms ##
 
