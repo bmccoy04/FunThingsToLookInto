@@ -12,3 +12,5 @@
 
 ## App Ideas ##
 1. Task Manager (for fun in electron)
+
+jake is awesome!!!
