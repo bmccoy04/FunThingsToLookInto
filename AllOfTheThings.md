@@ -11,4 +11,4 @@
 hyper.is
 
 ## App Ideas ##
-Task Manager (for fun)
+Task Manager (for fun in electron)
