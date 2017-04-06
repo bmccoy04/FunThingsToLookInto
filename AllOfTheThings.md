@@ -9,3 +9,6 @@
 
 ## tools ##
 hyper.is
+
+## App Ideas ##
+Task Manager (for fun)
