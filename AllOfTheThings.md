@@ -8,7 +8,7 @@
 ## Blogs ##
 
 ## tools ##
-hyper.is
+1. hyper.is
 
 ## App Ideas ##
-Task Manager (for fun in electron)
+1. Task Manager (for fun in electron)
