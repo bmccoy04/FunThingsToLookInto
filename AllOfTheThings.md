@@ -15,3 +15,6 @@
 
 ## stuff ##
 webworkers
+
+## Todo ##
+1. Re-Structure auth service and add unit test.
