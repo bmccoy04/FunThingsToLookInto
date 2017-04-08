@@ -16,6 +16,7 @@
 ## stuff ##
 webworkers
 awesome hacking github repo
+graphQl
 
 ## Todo ##
 1. Re-Structure auth service and add unit test.
