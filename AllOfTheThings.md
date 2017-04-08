@@ -15,6 +15,7 @@
 
 ## stuff ##
 webworkers
+awesome hacking github repo
 
 ## Todo ##
 1. Re-Structure auth service and add unit test.
