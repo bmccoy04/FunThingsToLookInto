@@ -12,6 +12,10 @@
 
 ## App Ideas ##
 1. Task Manager (for fun in electron)
+1. publisher a python app with settings for publishing apps
+1. what to eat for supper app.
+1. next time
+1. InTerval
 
 ## stuff ##
 webworkers
