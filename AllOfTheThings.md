@@ -6,6 +6,7 @@
 ## Algorithms ##
 
 ## Blogs ##
+andrewlock.net bearer tokens.
 
 ## tools ##
 1. hyper.is
