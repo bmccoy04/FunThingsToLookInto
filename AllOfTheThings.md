@@ -22,7 +22,7 @@ andrewlock.net bearer tokens.
 webworkers
 awesome hacking github repo
 graphQl
-cloudscribe --auth for core.
+swagger for api metadata
 
 ## Todo ##
 1. Re-Structure auth service and add unit test.
