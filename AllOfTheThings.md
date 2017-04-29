@@ -9,7 +9,6 @@
 andrewlock.net bearer tokens.
 
 ## tools ##
-1. hyper.is
 
 ## App Ideas ##
 1. Task Manager (for fun in electron)
